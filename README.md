@@ -1,5 +1,5 @@
-# 陈德光的闽南语研究成果展示区
-## Southern Hokkien research outcomes of Tán Tăk-Kong
+# 闽南语研究成果展示区
+## Southern Hokkien research outcomes
 我在国内平台（知乎@[陈德光](https://www.zhihu.com/people/chjx1998)、B站@[陈德光TanTakkong](https://space.bilibili.com/572197639?spm_id_from=333.1073.0.0)）上展现了闽南语的一系列研究成果，并承蒙读者观众们厚爱。不过，做研究总归需要逐步过渡到更加严谨的层次，这和面向普罗大众展开宣教都是不可偏废的。由此，我在GitHub上建立个人主页，将需要运用计算机语言展示的部分提供上来，希望获得更多同侪共鸣与指教。  
 因为网站风格的不同，我先将已有的研究进展简述如下，读者可自行前往了解。  
 * 知乎平台：  
